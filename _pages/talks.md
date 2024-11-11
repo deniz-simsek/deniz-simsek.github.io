@@ -7,8 +7,6 @@ redirect_from:
   - /talks
 ---
 
-## Talks
----
 
 **Resilient Airline Scheduling while Minimizing Delay Risks** 
   * INFORMS Annual Meeting 2022, Indianapolis, USA, October 2022 
