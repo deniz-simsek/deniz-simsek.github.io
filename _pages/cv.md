@@ -45,8 +45,9 @@ Here is my full <a href="https://deniz-simsek.github.io/files/resume.pdf" target
   * INFORMS Annual Meeting 2024, Seattle, USA, October 2024
   * INFORMS Annual Meeting 2023, Phoenix, USA, October 2023
 
-## Teaching 
----
+%## Teaching 
+%---
+
 ## Service
 ---
 * Voting Board Member, INFORMS Pride Forum, 2023 - Present 
