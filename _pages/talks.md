@@ -9,7 +9,8 @@ redirect_from:
 
 
 **Resilient Airline Scheduling while Minimizing Delay Risks** 
-  * INFORMS Annual Meeting 2022, Indianapolis, USA, October 2022 
+  * INFORMS Annual Meeting 2022, Indianapolis, USA, October 2022
+  * Poster, Chicago Operations Workshop, Chicago, USA
   * YAEM (Turkish OR/IE Society) Annual Meeting 2021, Istanbul, Turkey, July 2021
 
 **A Unified Fluid Model for Large Service Systems with Patience- or Delay-Dependent Service Times**
