@@ -6,7 +6,7 @@
 
 main:
   - title: "Home Page"
-    url: /about/
+    url: https://deniz-simsek.github.io/
     
   - title: "Research"
     url: /publications/
