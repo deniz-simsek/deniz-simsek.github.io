@@ -10,39 +10,52 @@ redirect_from:
 ## Teaching Assistant, Northwestern University 
 ---
 
-* Stochastic Foundations II (Ph.D. core)
-  Spring 2025, Spring 2024
+### MBA Courses
 
-* Supply Chain Management (MBA elective)
+* Supply Chain Management (elective)
   Spring 2025
 
-* Data Science with Large Language Models (MBA elective)
+* Data Science with Large Language Models (elective)
   Fall 2024
 
-* Applied Advanced Analytics (MBA elective)
+* Applied Advanced Analytics (elective)
   Spring 2024
 
-* Humanitarian and Non-Profit Operations (MBA elective)
+* Humanitarian and Non-Profit Operations (elective)
   Winter 2024, Winter 2023
 
-* Decision Models and Prescriptive Analytics (MBA elective)
+* Decision Models and Prescriptive Analytics (elective)
   Fall 2023, Winter 2023
     
-* Operations Management (MBA core)
+* Operations Management (core)
   Spring 2023, Summer 2023
+
+### Ph.D Courses
+
+* Stochastic Foundations (core)
+  Spring 2025, Spring 2024
     
-## Teaching Assistant, Bilkent University
+## Graduate Teaching Assistant, Bilkent University
 ---
 
-* Production Information Systems (Undergraduate core)
+* Operations Scheduling (undergraduate elective)
+  Fall 2019, Fall 2020
+
+* Production Information Systems (undergraduate core)
+  Spring 2020
+
+## Undergraduate Teaching Assistant, Bilkent University
+---
+
+* Production Information Systems (undergraduate core)
   Spring 2019
     
-* Simulation (Undergraduate core)
+* Simulation (undergraduate core)
   Fall 2018
 
-* Introduction to Programming (Undergraduate core)
+* Introduction to Programming (undergraduate core)
   Spring 2017, Fall 2017
     
-* Introduction to Computing for Engineers (Undergraduate core)
+* Introduction to Computing for Engineers (undergraduate core)
   Fall 2016
     
