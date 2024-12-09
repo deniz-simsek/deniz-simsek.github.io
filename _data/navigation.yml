@@ -7,6 +7,9 @@
 main:
   - title: "Home Page"
     url: https://deniz-simsek.github.io/
+
+  - title: "CV"
+    url: /cv/
     
   - title: "Research"
     url: /publications/
@@ -17,6 +20,5 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+
     
