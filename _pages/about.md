@@ -14,4 +14,7 @@ My research interests are service operations, queueing theory, and applied proba
 I received the B.Sc. and M.Sc. degrees in Industrial Engineering from  <a href="https://w3.ie.bilkent.edu.tr/en/" target="_blank">Bilkent University</a> (Ankara, Turkey) in 2019 and 2021, respectively. 
 
 
+**I am on the 2026-2027 academic job market.**
+
+
 ---
