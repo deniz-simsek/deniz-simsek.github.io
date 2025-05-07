@@ -17,7 +17,7 @@ I hold a B.Sc. and M.Sc. in Industrial Engineering from [Bilkent University](htt
 
 ---
 
-### Upcoming Talks
+## Upcoming Talks
 
 **2025 Annual POMS Conference**  
 *Atlanta, GA*  
