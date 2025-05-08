@@ -7,7 +7,7 @@ redirect_from:
   - /talks
 ---
 
-**Design and Control of Large Service Systems with Delay-Dependent Service Times**
+**Design and Control of Large Service Systems with Delay-Dependent Service Times** 
   * (_Upcoming_) INFORMS MSOM Conference, London, UK, June 2025
   * (_Upcoming_) Poster, Chicago Operations Workshop, Chicago, USA June 2025
 
