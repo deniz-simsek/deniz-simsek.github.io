@@ -11,7 +11,6 @@ redirect_from:
 
 Here is my full <a href="https://deniz-simsek.github.io/files/resume.pdf" target="_blank">CV</a>, last updated on May 2025.
 
- 
 ## Education
 ---
 * Ph.D in Operations Management, Kellogg School of Management, Northwestern University, 2026 (expected)

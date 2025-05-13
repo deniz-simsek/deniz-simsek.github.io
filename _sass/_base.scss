@@ -313,3 +313,8 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+p, li {
+  font-weight: 300;
+  // line-height: 0.8;
+}
