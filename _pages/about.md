@@ -19,16 +19,12 @@ I hold a B.Sc. and M.Sc. in Industrial Engineering from [Bilkent University](htt
 
 ## Upcoming Talks
 
-**2025 Annual POMS Conference, Atlanta, GA**  
-**Date:** May 12, 2025 | **Time:** 8:00 AM – 9:30 AM | **Location:** EMBASSY C | **Session:** Service System Modeling  
-**Title:** *A Unified Fluid Model for Large Service Systems with Patience- or Delay-Dependent Service Times*
-
 **2025 INFORMS MSOM Conference, London, UK**  
 **Date:** 28-29 June 2025 | **Time:** TBD | **Location:** TBD | **Session:** TBD  
 **Title:** *Design and Control of Large Service Systems with Delay-Dependent Service Times*  
 
 **2025 INFORMS Applied Probability Conference, Atlanta, GA**  
-**Date:** June 30 - July 3, 2025 | **Time:** TBD | **Location:** TBD | **Session:** TBD  
+**Date:** June 30 - July 3, 2025 | **Time:** 10:30 AM - 12:00 PM | **Location:** Room 2 | **Session:** Stochastic Networks I
 **Title:** *A Unified Fluid Model for Large Service Systems with Patience- or Delay-Dependent Service Times*
 
 ---
