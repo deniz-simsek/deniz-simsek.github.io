@@ -23,7 +23,7 @@ I hold a B.Sc. and M.Sc. in Industrial Engineering from [Bilkent University](htt
 **Date:** 28-29 June 2025 | **Time:** TBD | **Location:** TBD | **Session:** TBD  
 **Title:** *Design and Control of Large Service Systems with Delay-Dependent Service Times*  
 
-**2025 INFORMS Applied Probability Conference, Atlanta, GA**  
+**2025 INFORMS Applied Probability Society Conference, Atlanta, GA**  
 **Date:** July 3, 2025 | **Time:** 10:30 AM - 12:00 PM | **Location:** Room 2 | **Session:** Stochastic Networks I  
 **Title:** *A Unified Fluid Model for Large Service Systems with Patience- or Delay-Dependent Service Times*
 
