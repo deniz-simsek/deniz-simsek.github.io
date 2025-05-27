@@ -13,7 +13,7 @@ redirect_from:
 
 **A Unified Fluid Model for Large Service Systems with Patience- or Delay-Dependent Service Times**
   * (_Upcoming_) INFORMS Applied Probability Society Conference, Atlanta, GA, USA, July 2025
-  * (_Upcoming_) Annual POMS Conference, Atlanta, GA, USA, May 2025
+  * Annual POMS Conference, Atlanta, GA, USA, May 2025
   * INFORMS Annual Meeting 2024, Seattle, USA, October 2024
   * Poster, Chicago Operations Workshop, Chicago, USA, June 2024
   * INFORMS Annual Meeting 2023, Phoenix, USA, October 2023
