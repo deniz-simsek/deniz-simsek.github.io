@@ -20,7 +20,7 @@ I hold a B.Sc. and M.Sc. in Industrial Engineering from [Bilkent University](htt
 ## Upcoming Talks
 
 **2025 INFORMS MSOM Conference, London, UK**  
-**Date:** 28-29 June 2025 | **Time:** TBD | **Location:** TBD | **Session:** TBD  
+**Date:** June 28, 2025 | **Time:** 8:30-10:00 AM | **Location:** LT7 (E Wing Ground Floor) | **Session:** SAA9: Emerging Challenges in Modern Service Operations  
 **Title:** *Design and Control of Large Service Systems with Delay-Dependent Service Times*  
 
 **2025 INFORMS Applied Probability Society Conference, Atlanta, GA**  
