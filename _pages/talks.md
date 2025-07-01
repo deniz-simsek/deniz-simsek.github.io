@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 **Design and Control of Large Service Systems with Delay-Dependent Service Times** 
-  * (_Upcoming_) INFORMS MSOM Conference, London, UK, June 2025
   * (_Upcoming_) INFORMS Applied Probability Society Conference, Atlanta, GA, USA, July 2025
+  * INFORMS MSOM Conference, London, UK, June 2025
   * Poster, Chicago Operations Workshop, Chicago, USA June 2025
 
 **A Unified Fluid Model for Large Service Systems with Patience- or Delay-Dependent Service Times**
