@@ -23,6 +23,13 @@ I hold a B.Sc. and M.Sc. in Industrial Engineering from [Bilkent University](htt
 **Date:** August 22, 2025 | **Time:** 2:00-3:00 PM | **Session:** RAWL1057    
 **Title:** *A Unified Fluid Model for Large Service Systems with Patience- or Delay-Dependent Service Times*
 
+**INFORMS Annual Meeting, Atlanta, GA**  
+**Date:** October 26, 2025 | **Time:** 11:00 AM - 12:15 PM | **Session:** Job Market Showcase - Queueing Systems  
+**Title:** *Large Service Systems with Patience- or Delay-Dependent Service Times: Fluid Approximations, Design and Control*
+
+**INFORMS Annual Meeting, Atlanta, GA**  
+**Date:** October 28, 2025 | **Time:** 1:15 PM - 2:30 PM | **Session:** Top-Notch Applications of Queueing Theory  
+**Title:** *Design and Control of Large Service Systems with Delay-Dependent Service Times*  
 
 
 ---
