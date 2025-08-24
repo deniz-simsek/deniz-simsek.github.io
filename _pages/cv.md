@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my full <a href="https://deniz-simsek.github.io/files/resume.pdf" target="_blank">CV</a>, last updated on June 2025.
+Here is my full <a href="https://deniz-simsek.github.io/files/resume.pdf" target="_blank">CV</a>, last updated on July 2025.
 
