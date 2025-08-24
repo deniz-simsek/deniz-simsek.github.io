@@ -17,6 +17,10 @@ I hold a B.Sc. and M.Sc. in Industrial Engineering from [Bilkent University](htt
 
 ---
 
+**Contact:** deniz.simsek [at] kellogg.northwestern.edu
+
+---
+
 ## Upcoming Talks
 
 **3rd Annual Purdue SCOM Conference, West Lafayette, IN**  
