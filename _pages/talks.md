@@ -14,7 +14,7 @@ redirect_from:
   * Poster, Chicago Operations Workshop, Chicago, USA June 2025
 
 **A Unified Fluid Model for Large Service Systems with Patience- or Delay-Dependent Service Times**
-  * (_Upcoming_) Purdue SCOM Conference, West Lafayette, USA, August, 2025
+  * Purdue SCOM Conference, West Lafayette, USA, August, 2025
   * INFORMS Applied Probability Society Conference, Atlanta, USA, July 2025
   * Annual POMS Conference, Atlanta, USA, May 2025
   * INFORMS Annual Meeting 2024, Seattle, USA, October 2024
