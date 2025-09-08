@@ -31,6 +31,8 @@ redirect_from:
   </div>
 </details>
 
+## Works in Progress
+---
 **Deniz Şimşek**, Achal Bassamboo, Ohad Perry. Design and Control of Large Service Systems with Delay-Dependent Service Times.
 
 <details>
@@ -40,3 +42,4 @@ Service systems often exhibit complex dynamics when customer service times depen
   </div>
 </details>
 
+**Deniz Şimşek**, Achal Bassamboo, Martin Lariviere. Burning Daylight: Rational Abandonments under a Time Budget.
