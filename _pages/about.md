@@ -23,10 +23,6 @@ I hold a B.Sc. and M.Sc. in Industrial Engineering from [Bilkent University](htt
 
 ## Upcoming Talks
 
-**3rd Annual Purdue SCOM Conference, West Lafayette, IN**  
-**Date:** August 22, 2025 | **Time:** 2:00-3:00 PM | **Room:** RAWL1057    
-**Title:** *A Unified Fluid Model for Large Service Systems with Patience- or Delay-Dependent Service Times*
-
 **INFORMS Annual Meeting, Atlanta, GA**  
 **Date:** October 26, 2025 | **Time:** 11:00 AM - 12:15 PM | **Room:** Bldg A Lvl 3 A315  
 **Session:** Job Market Showcase - Queueing Systems  
