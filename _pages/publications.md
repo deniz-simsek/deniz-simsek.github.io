@@ -9,7 +9,7 @@ redirect_from:
 
 ## Journal Publications
 ---
-**1.** **Deniz Şimşek**, M. Selim Aktürk. Resilient Airline Scheduling while Minimizing Delay Risks. *Transportation Research Part C*, 2022.  
+**Deniz Şimşek**, M. Selim Aktürk. Resilient Airline Scheduling while Minimizing Delay Risks. *Transportation Research Part C*, 2022.  
 Available at: <a href="https://doi.org/10.1016/j.trc.2022.103734" target="_blank">https://doi.org/10.1016/j.trc.2022.103734</a>
 
 <details>
@@ -23,7 +23,7 @@ Available at: <a href="https://doi.org/10.1016/j.trc.2022.103734" target="_blank
 
 ## Working Papers
 ---
-**2. (Job Market Paper)** **Deniz Şimşek**, Chenguang (Allen) Wu, Achal Bassamboo, Ohad Perry. A Unified Fluid Model for Large Service Systems with Patience- or Delay-Dependent Service Times.
+(Job Market Paper)** **Deniz Şimşek**, Chenguang (Allen) Wu, Achal Bassamboo, Ohad Perry. A Unified Fluid Model for Large Service Systems with Patience- or Delay-Dependent Service Times.
 
 <details>
   <summary>Abstract</summary>
@@ -34,7 +34,7 @@ Available at: <a href="https://doi.org/10.1016/j.trc.2022.103734" target="_blank
 
 ## Works in Progress
 ---
-**3.** **Deniz Şimşek**, Achal Bassamboo, Ohad Perry. Design and Control of Large Service Systems with Delay-Dependent Service Times.
+**Deniz Şimşek**, Achal Bassamboo, Ohad Perry. Design and Control of Large Service Systems with Delay-Dependent Service Times.
 
 <details>
   <summary>Abstract</summary>
@@ -43,4 +43,4 @@ Service systems often exhibit complex dynamics when customer service times depen
   </div>
 </details>
 
-**4.** **Deniz Şimşek**, Achal Bassamboo, Martin Lariviere. Burning Daylight: Rational Abandonments under a Time Budget.
+**Deniz Şimşek**, Achal Bassamboo, Martin Lariviere. Burning Daylight: Rational Abandonments under a Time Budget.
