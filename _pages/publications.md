@@ -23,7 +23,8 @@ Available at: <a href="https://doi.org/10.1016/j.trc.2022.103734" target="_blank
 
 ## Working Papers
 ---
-**Deniz Şimşek**, Chenguang (Allen) Wu, Achal Bassamboo, Ohad Perry. A Unified Fluid Model for Large Service Systems with Patience- or Delay-Dependent Service Times. **(Job Market Paper)** 
+**Deniz Şimşek**, Chenguang (Allen) Wu, Achal Bassamboo, Ohad Perry. A Unified Fluid Model for Large Service Systems with Patience- or Delay-Dependent Service Times. **(Job Market Paper)**   
+Submitted to *Operations Research*. Preprint available at: <a href="https://ssrn.com/abstract=5530258" target="_blank">https://ssrn.com/abstract=5530258</a>
 
 <details>
   <summary>Abstract</summary>
