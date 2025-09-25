@@ -9,7 +9,8 @@ redirect_from:
 
 ## Journal Publications
 ---
-**Deniz Şimşek**, M. Selim Aktürk. Resilient Airline Scheduling while Minimizing Delay Risks. *Transportation Research Part C*, 2022. Available at: <a href="https://doi.org/10.1016/j.trc.2022.103734" target="_blank">https://doi.org/10.1016/j.trc.2022.103734</a>
+**Deniz Şimşek**, M. Selim Aktürk. Resilient Airline Scheduling while Minimizing Delay Risks. *Transportation Research Part C*, 2022.  
+Available at: <a href="https://doi.org/10.1016/j.trc.2022.103734" target="_blank">https://doi.org/10.1016/j.trc.2022.103734</a>
 
 <details>
   <summary>Abstract</summary>
