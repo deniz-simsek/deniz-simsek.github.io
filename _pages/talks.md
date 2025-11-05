@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Design and Control of Large Service Systems with Delay-Dependent Service Times** 
-  * (_Upcoming_) INFORMS Annual Meeting 2025, Atlanta, USA, October 2025
+  * INFORMS Annual Meeting 2025, Atlanta, USA, October 2025
   * INFORMS Applied Probability Society Conference, Atlanta, USA, July 2025
   * INFORMS MSOM Conference, London, UK, June 2025
   * Poster, Chicago Operations Workshop, Chicago, USA June 2025
