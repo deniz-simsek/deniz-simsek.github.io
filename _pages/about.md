@@ -13,7 +13,7 @@ My research lies at the intersection of service operations, queueing theory, and
 
 I hold my B.Sc. and M.Sc. in Industrial Engineering from [Bilkent University](https://w3.ie.bilkent.edu.tr/en/) (Ankara, Turkey), earned in 2019 and 2021, respectively.
 
-**I will be joining the Frankfurt School of Finance & Management as a tenure-track Assistant Professor in Business Analytics in Fall 2026!** :champagne:
+**I will be joining the Frankfurt School of Finance & Management as a tenure-track Assistant Professor in Business Analytics in Fall 2026!**
 
 ---
 
